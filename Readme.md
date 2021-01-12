@@ -1,4 +1,7 @@
-# Aplikasi Promo Discon
+# Muhammad Kholif Arrahman
+# 19.11.2799
+# S1 IF 04
+# Aplikasi Promo Discon 
 Aplikasi ini berisi menu makanan dan minuman yang telah disediakan dan juga potongan discon dari promo-promo yang disediakan yang bertujuan untuk memesan makanan ataupun minuman
 
 ## Tujuannya
